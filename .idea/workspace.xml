@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2faf1689-cf0d-4bef-a272-d35f11403be5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DrinksProjectDjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/JetClient/state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinksProjectDjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinksProjectDjango/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinksProjectDjango/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinksProjectDjango/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrinksProjectDjango/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drinks/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drinks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    <list default="true" id="2faf1689-cf0d-4bef-a272-d35f11403be5" name="Changes" comment="project initialization">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drinks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drinks/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///folder-pre-request-script-933592ef.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///folder-test-script-933592ef.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///pre-request-script-8b41d8b8.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///test-script-8b41d8b8.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -112,11 +105,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703057971241</updated>
-      <workItem from="1703057975673" duration="1351000" />
+      <workItem from="1703057975673" duration="2024000" />
     </task>
+    <task id="LOCAL-00001" summary="project initialization">
+      <option name="closed" value="true" />
+      <created>1703059423650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703059423650</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project initialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="project initialization" />
   </component>
 </project>

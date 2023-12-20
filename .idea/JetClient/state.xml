@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="description" value="Django Drinks project" />
+          <option name="id" value="933592ef-415a-40aa-8d6b-e3b9c137627e" />
+          <option name="name" value="DrinksProject" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Orange Soda&quot;,&#10;  &quot;description&quot;: &quot;Very Orangey&quot;&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="8b41d8b8-6549-49b7-9de8-ceaac3d2f8db" />
+                <option name="method" value="POST" />
+                <option name="name" value="Create Drink" />
+                <option name="url" value="http://localhost:8000/drinks/" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
     <option name="id" value="2a4a258c-d83d-47f3-8433-beb2447bc006" />
   </component>
 </project>
