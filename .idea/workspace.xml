@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2faf1689-cf0d-4bef-a272-d35f11403be5" name="Changes" comment="project initialization">
+    <list default="true" id="2faf1689-cf0d-4bef-a272-d35f11403be5" name="Changes" comment="added POST request handling">
+      <change beforePath="$PROJECT_DIR$/.idea/JetClient/state.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JetClient/state.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drinks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drinks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/drinks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drinks/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///folder-pre-request-script-933592ef.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///folder-test-script-933592ef.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///pre-request-script-356431ed.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///pre-request-script-442996b2.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///pre-request-script-8b41d8b8.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///test-script-356431ed.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///test-script-442996b2.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///test-script-8b41d8b8.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -105,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703057971241</updated>
-      <workItem from="1703057975673" duration="2024000" />
+      <workItem from="1703057975673" duration="3462000" />
     </task>
     <task id="LOCAL-00001" summary="project initialization">
       <option name="closed" value="true" />
@@ -115,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703059423650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added POST request handling">
+      <option name="closed" value="true" />
+      <created>1703060136555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703060136555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project initialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="project initialization" />
+    <MESSAGE value="added POST request handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="added POST request handling" />
   </component>
 </project>
